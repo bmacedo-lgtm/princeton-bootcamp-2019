@@ -5,4 +5,4 @@ Some kind of edit
 
 some other edit 
 
-an edit from Github that we will pull in directly, that I have edited locally. 
+an edit from Github that we will pull in directly, that we edit in Github and locally resolved.

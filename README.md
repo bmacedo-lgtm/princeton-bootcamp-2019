@@ -5,4 +5,4 @@ Some kind of edit
 
 some other edit 
 
-an edit from Github that we will pull in directly 
+an edit from Github that we will pull in directly, that we edit in Github.
